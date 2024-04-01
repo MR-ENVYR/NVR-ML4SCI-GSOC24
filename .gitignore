@@ -7,6 +7,7 @@ models/
 Models/
 large_runs/
 dataset/
+Dataset/
 
 #ignoring comms notebook
 gitcomms.*
